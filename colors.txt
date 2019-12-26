@@ -11,4 +11,4 @@ grey
 yours
 orange
 Take this
-Cayan
+Cyan
