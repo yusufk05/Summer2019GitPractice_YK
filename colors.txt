@@ -6,3 +6,4 @@ yellow
 purple
 navy blue
 white
+pink
