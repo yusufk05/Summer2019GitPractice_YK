@@ -8,8 +8,4 @@ navy blue
 white
 pink
 grey
-<<<<<<< HEAD
-mine
-=======
 yours
->>>>>>> 0dc72442cfccfb9b3368927514a67cab7c3bdd1d
